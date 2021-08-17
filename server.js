@@ -5,7 +5,7 @@
 * (including web sites) or distributed to other students.
 *
 * Name: Artem Tanyhin Student ID: 107958209 Date: 22/01/2020
-* Heroku Link: _______________________________________________________________
+* Heroku Link: https://shielded-beyond-25498.herokuapp.com/
 *
 ********************************************************************************/
 
